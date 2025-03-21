@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/YangSeongeun/Documents/SampleChat/SampleChat/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/YangSeongeun/Documents/SampleChat/SampleChat/Content/GameModes/BP_ChatMode.uasset",
+				"C:/Users/YangSeongeun/Documents/SampleChat/SampleChat/Content/Levels/LvChat.umap",
+				"C:/Users/YangSeongeun/Documents/SampleChat/SampleChat/Content/Blueprints/BP_Controller.uasset"
+			]
+		}
+	]
+}
